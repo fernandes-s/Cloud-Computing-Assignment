@@ -1,3 +1,5 @@
+## 1. Header
+
 I Currently work in a Company Called Galway Bay Brewery. This company owns two breweries, one in Galway and the Other in Meath they also own fifteen pubs around Ireland. Unfortunately, they have no cloud system to connect its pubs nor breweries, which makes ordering stock a hard process and help between pubs even harder. Even though our POS is administered by Nostra that is a world leading managed IT services company [1], they do not provide this service of integrating the company’s wholes system. 
 
 •	With a cloud system implanted in the company:
@@ -9,3 +11,6 @@ I Currently work in a Company Called Galway Bay Brewery. This company owns two b
 
 References: 
 [1] - https://www.nostra.ie/ (Accessed: 16/11/2022)
+[2] - https://elearning.dbs.ie/mod/resource/view.php?id=1280992 (Accessed: 16/11/2022)
+
+
