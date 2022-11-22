@@ -1,18 +1,15 @@
-## 1. Header
+#Cloud Computing Assignment
 
-I Currently work in a Company Called Galway Bay Brewery. This company owns two breweries, one in Galway and the Other in Meath they also own fifteen pubs around Ireland. Unfortunately, they have no cloud system to connect its pubs nor breweries, which makes ordering stock a hard process and help between pubs even harder. Even though our POS is administered by Nostra that is a world leading managed IT services company [1], they do not provide this service of integrating the company’s wholes system. 
+##•	Background of the enterprise 
+-I currently work in a company called Galway Bay Brewery, and on the company’s website they describe themselves as 
+>“…an independently owned and operated brewery based in Galway, on the west coast of Ireland. From classic styles to big barrel aged beers, we brew the full spectrum of beer with a passion for quality and innovation.” [1], 
+-after a merge with Bru Brewery, Galway Bay Brewery now operates 15 pubs over Ireland with 12 of them being based in Dublin, 2 in Galway and one in Belfast.
 
-•	With a cloud system implanted in the company:
-•	It would be easier to escalate in busy periods (Pay-per-use-IT) such as, St. Patrick Day, Pride or Christmas. 
-•	It can also be future proof, due the fact that the business manager won’t have to worry about updating the system he will have access to Software-as-a-Service (SaaS) and Platform-as-a-Service (PaaS). 
-•	Access to documents will be made easier once the data is in the cloud you will be able to look at it and make data driven decisions. [2]
+##•	Current IT setup
+-My role as a manager in The Beer Temple (one of the company’s pubs) gives me access to some of its data, such as its IT set-up. The company has its IT set-up managed by Nostra which is “…a world leading managed IT services company, with the expertise and know-how to help your business prosper in a connected world” [2]. 
+The Beer Temple IT set-up has a server installed within the pub’s facilities. All the sales data is stored in the pub, which give us access to figures, waste, peak times etc. We complete our data entry through the POS (point of sale) and it is connected with the server that then stores the data.
+ 
 
-
-
-References: 
-
-[1] - https://www.nostra.ie/ (Accessed: 16/11/2022)
-
-[2] - https://elearning.dbs.ie/mod/resource/view.php?id=1280992 (Accessed: 16/11/2022
-
-Hello World!
+##References:
+-[1] https://galwaybaybrewery.com/ accessed: 22/11/2022
+-[2] https://www.nostra.ie/ (Accessed: 16/11/2022)
