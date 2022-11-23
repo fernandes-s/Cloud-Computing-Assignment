@@ -1,7 +1,7 @@
 # Cloud Computing Assignment
 
 ## Background of the enterprise 
-I currently work in a company called Galway Bay Brewery, and on the company’s website they describe themselves as 
+I currently work in a company called Galway Bay Brewery and on the company’s website they describe themselves as: 
 >“…an independently owned and operated brewery based in Galway, on the west coast of Ireland. From classic styles to big barrel aged beers, we brew the full spectrum of beer with a passion for quality and innovation.” [1]
 
 after a merge with Bru Brewery, Galway Bay Brewery now operates 15 pubs over Ireland with 12 of them being based in Dublin, 2 in Galway and one in Belfast.
