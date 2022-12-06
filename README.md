@@ -16,9 +16,9 @@ The data entry is made through the EPoS (electronic point of sale) and the syste
 
 and stored in the server provided by Nostra.
 
- 
+## Recommendations
 
-## References:
+## References
 
 [1] https://galwaybaybrewery.com/ accessed: 22/11/2022
 
