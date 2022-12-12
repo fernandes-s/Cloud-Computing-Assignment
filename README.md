@@ -21,7 +21,9 @@ Based in the company’s current IT Set UP, I would recommend:
 
 We can apply Infrastructure as a Service (IaaS) and Software as a Service (SaaS) measures. [5]
 
-Those changes would add a lot to the company and would drive not only our sales, but better organize our stock and profit, keep system and software’s updated and make data driven decisions such as which beer should we produce based on pub sales, and what is on demand.
+Those changes would add a lot to the company and would drive not only our sales, but better organize our stock and increase profit, keep system and software’s updated and make data driven decisions such as which beer should we produce based on pub sales, and show what is on demand. 
+
+The fact that the data would be stored in the cloud would give easier access from anywhere and also allow the company to expand in the country and even start to export its products worldwide.
 
 
 ## References
