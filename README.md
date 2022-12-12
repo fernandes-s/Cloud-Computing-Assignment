@@ -17,6 +17,12 @@ The data entry is made through the EPoS (electronic point of sale) and the syste
 and stored in the server provided by Nostra.
 
 ## Recommendations
+Based in the company’s current IT Set UP, I would recommend:
+
+We can apply Infrastructure as a Service (IaaS) and Software as a Service (SaaS) measures. [5]
+
+Those changes would add a lot to the company and would drive not only our sales, but better organize our stock and profit, keep system and software’s updated and make data driven decisions such as which beer should we produce based on pub sales, and what is on demand.
+
 
 ## References
 
@@ -27,3 +33,5 @@ and stored in the server provided by Nostra.
 [3] https://www.virginmedia.ie/ (Accessed: 23/11/2022)
 
 [4] https://www.cbe.ie/ (Accessed: 23/11/2022)
+
+[5] https://www.enisa.europa.eu/media/news-items/cloud-computing-speech (Acessed: 09/12/2022)
