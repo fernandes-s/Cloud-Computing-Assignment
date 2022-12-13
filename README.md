@@ -21,9 +21,9 @@ Based in the company’s current IT Set UP, I would recommend:
 
 We can apply Infrastructure as a Service (IaaS) and Software as a Service (SaaS) measures. [5]
 
-With IaaS we can: Reduce costs with serves using the pay as you go subscription models, and recude costs with servers, we can use its scalability in order to just use as much as we need and not having to pay for more storage than we are actually using, it would also prevent the loss of the data due the back ups made throught cloud and enhaces security. [6]
+With IaaS we can: reduce costs with serves using the pay as you go subscription models, and recude costs with servers, we can use its scalability in order to just use as much as we need and not having to pay for more storage than we are actually using, it would also prevent the loss of the data due the back ups made throught cloud and enhaces security. [6]
 
-With SaaS we can:
+With SaaS we can: gain access to different aplications, therefore be allowed to use a free client software, it will help the company to save in softwares and not have to purchase them all, access the data from anywhere because it will stored in the cloud and there will be no need to go in site to access the data. [7]
 
 Those changes would add a lot to the company and would drive not only our sales, but better organize our stock and increase profit, keep system and software’s updated and make data driven decisions such as which beer should we produce based on pub sales, and show what is on demand. 
 
@@ -43,3 +43,5 @@ The fact that the data would be stored in the cloud would give easier access fro
 [5] https://www.enisa.europa.eu/media/news-items/cloud-computing-speech (Acessed: 09/12/2022)
 
 [6] https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/ (Acessed: 12/12/2022)
+
+[7] https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas/ (Acessed: 12/12/2022)
