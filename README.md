@@ -1,10 +1,10 @@
 # Cloud Computing Assignment
 
 ## Background of the enterprise 
-I currently work in a company called Galway Bay Brewery and on the company’s website they describe themselves as: 
+I currently work in a company called Galway Bay Brewery who describe themselves as: 
 >“…an independently owned and operated brewery based in Galway, on the west coast of Ireland. From classic styles to big barrel aged beers, we brew the full spectrum of beer with a passion for quality and innovation.” [1]
 
-After a merge with Bru Brewery, Galway Bay Brewery now operates fifteen pubs over Ireland with twelve of them being based in Dublin, two in Galway and one in Belfast.
+After a merge with Bru Brewery, Galway Bay Brewery now operates fifteen pubs throughout Ireland with twelve of them being based in Dublin, two in Galway and one in Belfast.
 
 ## Current IT setup
 My role as a manager in The Beer Temple (one of the company’s pubs) gives me access to some of its data, such as its IT set-up. The company has its IT set-up managed by Nostra which is:
@@ -17,18 +17,15 @@ The data entry is made through the EPoS (electronic point of sale) and the syste
 and stored in the server provided by Nostra.
 
 ## Recommendations
-Based in the company’s current IT Set UP, I would recommend:
+Based on the company’s current IT set-up, I would recommend:
 
-We can apply Infrastructure as a Service (IaaS) and Software as a Service (SaaS) measures. [5]
+Applying Infrastructure as a Service (IaaS) and Software as a Service (SaaS) measures. [5]
 
-With IaaS we can: reduce costs with serves using the pay as you go subscription models, and recude costs with servers, we can use its scalability in order to just use as much as we need and not having to pay for more storage than we are actually using, it would also prevent the loss of the data due the back ups made throught cloud and enhaces security. [6]
+With IaaS we can: reduce costs with servers using the pay as you go subscription models, increase stability, reliability, and supportability. We can use its scalability to just use as much as we need and not have to pay for more storage than we are actually using. It would also prevent the loss of the data due the backups made through cloud and enhances security. [6]
 
-With SaaS we can: gain access to different aplications, therefore be allowed to use a free client software, it will help the company to save in softwares and not have to purchase them all, access the data from anywhere because it will stored in the cloud and there will be no need to go in site to access the data. [7]
+With SaaS we can: gain access to different applications, therefore, be allowed to use a free client software, it will help the company to save in software and not have to purchase them all, access the data from anywhere because it will be stored in the cloud and there will be no need to go in-site to access the data. The fact that the data would be stored in the cloud would give easier access from home offices and allow the company to expand within the country and even start to export its products worldwide. [7]
 
-Those changes would add a lot to the company and would drive not only our sales, but better organize our stock and increase profit, keep system and software’s updated and make data driven decisions such as which beer should we produce based on pub sales, and show what is on demand. 
-
-The fact that the data would be stored in the cloud would give easier access from anywhere and also allow the company to expand in the country and even start to export its products worldwide.
-
+These changes would add a lot to the company and would drive not only our sales, but better organize our stock and increase profits, keep system and software updated and make data driven decisions such as which beer should we produce based on pub sales, and show what is in demand. 
 
 ## References
 
